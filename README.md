@@ -4,7 +4,7 @@
 
 ✔️ [Project's requirements](https://www.theodinproject.com/lessons/node-path-javascript-weather-app)
 
-### 🖱️ [Live preview](https://bartek8b.github.io/zzz-weather_app/)
+### 🖱️ [Live preview](https://bartek8b.github.io/TOP-Weather_App/)
 
 <br>
 
