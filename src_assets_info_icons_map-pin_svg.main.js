@@ -9,14 +9,14 @@
  */
 (self["webpackChunkwebpack_template"] = self["webpackChunkwebpack_template"] || []).push([["src_assets_info_icons_map-pin_svg"],{
 
-/***/ "./src/assets/info_icons/map-pin.svg":
+/***/ "./src/assets/info_icons/map-pin.svg"
 /*!*******************************************!*\
   !*** ./src/assets/info_icons/map-pin.svg ***!
   \*******************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "8c41fcd32a6421026061.svg";
 
-/***/ })
+/***/ }
 
 }]);

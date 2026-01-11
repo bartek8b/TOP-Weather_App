@@ -9,14 +9,14 @@
  */
 (self["webpackChunkwebpack_template"] = self["webpackChunkwebpack_template"] || []).push([["src_assets_info_icons_calendar_svg"],{
 
-/***/ "./src/assets/info_icons/calendar.svg":
+/***/ "./src/assets/info_icons/calendar.svg"
 /*!********************************************!*\
   !*** ./src/assets/info_icons/calendar.svg ***!
   \********************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "0aa970cf2052f800fc7a.svg";
 
-/***/ })
+/***/ }
 
 }]);

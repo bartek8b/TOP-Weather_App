@@ -9,14 +9,14 @@
  */
 (self["webpackChunkwebpack_template"] = self["webpackChunkwebpack_template"] || []).push([["src_assets_weather_icons_snow_svg"],{
 
-/***/ "./src/assets/weather_icons/snow.svg":
+/***/ "./src/assets/weather_icons/snow.svg"
 /*!*******************************************!*\
   !*** ./src/assets/weather_icons/snow.svg ***!
   \*******************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "5cd9d2df6b8a615bb430.svg";
 
-/***/ })
+/***/ }
 
 }]);

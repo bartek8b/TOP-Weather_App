@@ -9,14 +9,14 @@
  */
 (self["webpackChunkwebpack_template"] = self["webpackChunkwebpack_template"] || []).push([["src_assets_info_icons_thermometer_svg"],{
 
-/***/ "./src/assets/info_icons/thermometer.svg":
+/***/ "./src/assets/info_icons/thermometer.svg"
 /*!***********************************************!*\
   !*** ./src/assets/info_icons/thermometer.svg ***!
   \***********************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "3f4fcca9a253990f6a68.svg";
 
-/***/ })
+/***/ }
 
 }]);

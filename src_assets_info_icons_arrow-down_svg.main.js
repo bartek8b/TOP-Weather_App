@@ -9,14 +9,14 @@
  */
 (self["webpackChunkwebpack_template"] = self["webpackChunkwebpack_template"] || []).push([["src_assets_info_icons_arrow-down_svg"],{
 
-/***/ "./src/assets/info_icons/arrow-down.svg":
+/***/ "./src/assets/info_icons/arrow-down.svg"
 /*!**********************************************!*\
   !*** ./src/assets/info_icons/arrow-down.svg ***!
   \**********************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "1eca03ef4a23db15831d.svg";
 
-/***/ })
+/***/ }
 
 }]);
